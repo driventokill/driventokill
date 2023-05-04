@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 
 <!--
 **driventokill/driventokill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on large-scale e-commerce shopping guide system.
+- 💬 Ask me about java/go.
+- 💖 I love open-source!
+
+### 🏆 Github Stats
+
+[![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=driventokill)](https://github.com/driventokill/)
