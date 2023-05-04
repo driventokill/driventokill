@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 ### 🏆 Github Stats
 
-[![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=driventokill)](https://github.com/driventokill/)
+[![Yang's GitHub stats](https://github-readme-stats.vercel.app/api?username=driventokill)](https://github.com/driventokill/driventokill)
